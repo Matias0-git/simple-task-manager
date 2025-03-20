@@ -14,6 +14,12 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
+## Watch TaskFlow Demo!
+
+### Check out the demo video below to see how the client-server calculator works, including all basic and advanced functions.
+
+[![Watch the video](https://img.youtube.com/vi/0dmcyogcAnk/0.jpg)](https://youtu.be/0dmcyogcAnk)
+
 ## Getting Started
 
 The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
