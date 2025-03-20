@@ -16,7 +16,7 @@ This project is built with:
 
 ## Watch TaskFlow Demo!
 
-### Check out the demo video below to see how the client-server calculator works, including all basic and advanced functions.
+### Check out the demo video below to see how TaskFlow works.
 
 [![Watch the video](https://img.youtube.com/vi/0dmcyogcAnk/0.jpg)](https://youtu.be/0dmcyogcAnk)
 
